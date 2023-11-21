@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+header {
+    border-bottom: 1px solid grey;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 80%;
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5%;
+    padding: 20px;
+    white-space: pre-line;
+}
