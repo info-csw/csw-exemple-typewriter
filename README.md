@@ -1,25 +1,7 @@
-# Template for Testing Web project
+# Effet machine à écrire
 
-Template de template devant servir de base aux repository proposant le testing en web
+petit exemple simple de l'effet machine à écrire
 
-Pour l'auto grading la commande à insérer est 
-```
-npm test
-```
-Si il n'y a pas de JS
-```
-npm run testhtml
-```
-
-Installation des packages (non nécessaire pour les push sur git)
-```
-npm install
-```
-
-Ensemble des packages
-```
-npm install jest
-npm init @eslint/config
-npm install documentation
-npm install html-validator
-```
+- utilisation de la fonction `setTimeout()`
+- utilisation de la fonction `charAt()`
+- utilisation de la propriété `length`
